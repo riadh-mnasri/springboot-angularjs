@@ -1,2 +1,2 @@
 # springboot-angularjs
-Spring Boot with Angular JS sample application
+Spring Boot / Angular JS Sample Application
